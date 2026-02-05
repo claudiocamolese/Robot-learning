@@ -1,0 +1,14 @@
+config1:
+  learning_rate: 1e-4
+  batch_size: 256
+  gamma: 0.99
+
+config2:
+  learning_rate: 1e-4
+  batch_size: 256
+  gamma: 0.98
+
+config3:
+  learning_rate: 1e-3
+  batch_size: 256
+  gamma: 0.98

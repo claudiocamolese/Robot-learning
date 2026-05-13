@@ -4,10 +4,6 @@ Repository containing four assignments developed for the **Robot Learning** cour
 
 The activities cover both **foundational methods** and **advanced reinforcement learning techniques**, starting from classical control on CartPole and progressing towards **tabular RL**, **policy gradient methods**, and a **sim-to-real-inspired project** on the Hopper environment with **domain randomization**.
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-  <img src="gif/bad-cartpole.gif" width="200"/>
-  <img src="gif/hopper.gif" width="200"/>
-</div>
 
 ## Repository Overview
 
